@@ -1,0 +1,46 @@
+Web 3.0 Domain Site like Godaddy Step-by-Step (Solidity, Ethereum, Hardhat, React)
+1. Decentralized domain names Market Place from scratch.
+2. We can buy and sell decentralized domain names called 
+ethdaddy where you can list your blockchain based domain names
+and other people can buy them with their metamask wallet with nfts for profit.
+
+3. Metask dependencies - Ethereum wallet or blockchain wallet
+that connect our web browser to blockchain.
+
+
+4. ENS 
+
+5. Hardhat - is smart contract development framework, write scripts,
+test for deployment.
+
+
+6. ether.js is JS library - connect our frontend application to
+blockchain itself.
+
+7. reactjs
+
+8. Mocha 
+
+9. openZeppelin 
+
+
+1. contracts folder --> ETHDayy.sol
+---> solidity smart contract code - are immutable
+test/ETHDaddy.js
+
+2.  nft smart contract - 
+
+video stop at 43:55
+
+
+3. List Domain
+   Buy domain
+   Get Domain Paid
+   
+ file name is eth_daddy/contracts
+/ETHDaddy.sol
+
+
+4. // Model  a Domain
+  Save the domain
+  Update total domain count
